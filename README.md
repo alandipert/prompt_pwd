@@ -6,6 +6,8 @@ current working directory's path. It was designed to work with Bash's
 order to produce a terse `PS1` prompt that includes the current working
 directory path.
 
+![](demo.gif)
+
 ## Example
 
 If I'm in the directory `/home/alan/github/alandipert/prompt_pwd`,
